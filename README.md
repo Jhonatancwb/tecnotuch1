@@ -1,2 +1,2 @@
-# tecnotuch1
-site de prendizagem
+# tecnotuchtuch
+Estudo de JavaScript.
